@@ -1,3 +1,3 @@
 # github-actions-class
 
-hit1
+hit2
